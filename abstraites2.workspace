@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Classes abstraites C++ (2)">
+		<Project filename="exo01_formes/exo01_formes.cbp" active="1" />
+		<Project filename="exo02_paiement/exo02_paiement.cbp" />
+		<Project filename="exo03_animaux/exo03_animaux.cbp" />
+		<Project filename="exo04_fichiers/exo04_fichiers.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
